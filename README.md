@@ -10,7 +10,7 @@ Cliquez sur le bouton vert **Clone or download** et récupérez le projet dans u
 
 ## Contenu
 
-Les exemples sont classés dans trois catégories :
+Les exemples sont classés dans quatre catégories :
 
 * **Mapping :** exemples d'utilisation des RTP (ressources incluses au logiciel)
   * **Intérieurs :** maisons, boutiques, châteaux, donjons, etc.
@@ -20,6 +20,8 @@ Les exemples sont classés dans trois catégories :
 * **Gameplay :** systèmes conçus en évènements, prêts à l'emploi ou nécessitant une personnalisation.
 
 * **Mise en scène :** conseils et astuces pour améliorer le rythme et l'impact des scènes narratives.
+
+* **Scripts :** scripts populaires et utiles, voire indispensables, à la plupart des projets.
 
 ![Capture d'écran](https://i.imgur.com/gJZirk0.png)
 
