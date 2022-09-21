@@ -2,7 +2,7 @@
 
 RPG Maker VX Ace Starter Pack is a project including tons of examples to guide and inspire beginners in the creation of their game.
 
-[Download the latest version.](https://rpgmakeralliance.itch.io/starterpack)
+[Download the latest version.](https://gamedevalliance.itch.io/starterpack)
 
 [Chat with us on our FR & EN Discord server.](https://discord.gg/RrBppaj)
 
@@ -12,17 +12,17 @@ Ce guide explique comment proposer du contenu au Starter Pack. En résumé, vous
 
 Installez [GitHub Desktop](https://desktop.github.com/) et connectez-vous au logiciel avec votre compte GitHub.
 
-## Si vous n'avez pas les droits sur `rpgmakeralliance/rmvxa-starter-pack`
+## Si vous n'avez pas les droits sur `gamedevalliance/rmvxa-starter-pack`
 
-Créez une copie de `rpgmakeralliance/rmvxa-starter-pack` sur votre compte en cliquant sur le bouton Fork en haut de la page.
+Créez une copie de `gamedevalliance/rmvxa-starter-pack` sur votre compte en cliquant sur le bouton Fork en haut de la page.
 
 Clonez votre fork sur GitHub Desktop.
 
 ![Cloner](https://i.imgur.com/OjORmKq.png)
 
-## Si vous avez les droits sur `rpgmakeralliance/rmvxa-starter-pack`
+## Si vous avez les droits sur `gamedevalliance/rmvxa-starter-pack`
 
-Clonez directement `rpgmakeralliance/rmvxa-starter-pack`.
+Clonez directement `gamedevalliance/rmvxa-starter-pack`.
 
 Sur GitHub Desktop, créez une nouvelle branche, que vous pouvez appeler par votre nom par exemple.
 
